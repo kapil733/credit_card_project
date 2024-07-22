@@ -97,7 +97,7 @@ Data seems equally distributed between genders, so seems there is no bias on gen
 We see a pattern that loans with larger amounts tend to be more risky with clients staying with debts (type B). On the other hand, clients with smaller loans tend to finish all the loans without problems (type A).
 
 On running contracts, we see that larger loans tend to be more suitable indebting clients (type D).
-![Screenshot 2024-07-22 121305](https://github.com/user-attachments/assets/ac0db178-cfb1-4d20-8fbc-c5a0cce0a3cd)
+![Screenshot 2024-07-22 132221](https://github.com/user-attachments/assets/5a57b0bd-4cca-4ddc-87aa-2c9377802030)
 
 
 
@@ -108,7 +108,7 @@ On running contracts, we see that larger loans tend to be more suitable indebtin
 We see a pattern that loans with longer durations tend to be more risky with clients staying with debts (type B). On the other hand, clients with smaller contract durations tend to finish all the loans without problems (type A).
 
 On running contracts, we see that longer duration loans tend to be more suitable for indebting the clients (type D).
-![Screenshot 2024-07-22 121503](https://github.com/user-attachments/assets/219313d2-bab1-43e8-96ab-58ffa2822fb8)
+![Screenshot 2024-07-22 132234](https://github.com/user-attachments/assets/c2c830b5-0772-4c7c-b316-c489ab8918f8)
 
 
 
