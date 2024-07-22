@@ -14,7 +14,8 @@ The bank wants to improve their services. For instance, the bank managers have o
 
 
 
-# **REPORTS**
+<h1 align="center"># **REPORTS**</h1>
+
 
 ## Client Classification:
 The analysis involves understanding client data, transactions, loans, and credit cards.
