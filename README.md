@@ -69,7 +69,7 @@ On running contracts, we see that larger loans tend to be more suitable indebtin
 We see a pattern that loans with longer durations tend to be more risky with clients staying with debts (type B). On the other hand, clients with smaller contract durations tend to finish all the loans without problems (type A).
 
 On running contracts, we see that longer duration loans tend to be more suitable for indebting the clients (type D).
-![Uploading Screenshot 2024-07-22 121503.png…]()
+![Screenshot 2024-07-22 121503](https://github.com/user-attachments/assets/219313d2-bab1-43e8-96ab-58ffa2822fb8)
 
 
 
