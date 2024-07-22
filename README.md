@@ -14,7 +14,30 @@ The bank wants to improve their services. For instance, the bank managers have o
 
 # **REPORTS**
 
+## Client Classification:
+The analysis involves understanding client data, transactions, loans, and credit cards.
+We have surfaced some of the clients who can default. And the metrics we used for classification was how many times the balance in their accounts 
+were lesser than required according to industry standards
 
+## Economic Disparities:
+There is a large variance in average salary by district, indicating significant economic disparities across different regions.
+Understanding these variances can help in tailoring loan products and services to clients based on their district's economic profile.
+districts like ('Hl.m. Praha', 'Mlada Boleslav', 'Plzen - mesto', 'Ostrava - mesto','Most') has really good average salaries
+districts like (Chomutov,Zlin,Pardubice,Ceska Lipa) are both good in avg balance and avg salary
+
+## Patterns in Risk:
+Both the amount and duration of loans are key indicators of risk. Larger and longer loans are generally more problematic.
+These patterns suggest that the bank should be cautious when approving larger and longer loans, possibly implementing stricter credit checks or requiring more collateral.
+There is significant variance in average salary by district, which influences loan performance.
+Key factors influencing loan success or failure are average salary, loan duration, and loan amount.
+
+
+## Summary
+These findings highlight the importance of careful loan approval processes, region-specific strategies, and ongoing improvements in data quality and model precision. 
+By addressing these areas, the bank can enhance its understanding of client behavior, improve service offerings, and minimize financial risks.
+
+## Data Quality Improvement: 
+Monitor the reduction in missing or inconsistent data entries over time, which reflects improvements in data collection and preprocessing.
 
 
 
@@ -43,12 +66,13 @@ Ex.: Accounts with history of sanctions
 #  Salary data distribution
 
 Data shows a large variance of average salary by district.
-![Screenshot 2024-07-22 120425](https://github.com/user-attachments/assets/a4053d14-076a-417b-9694-3f58c81f516a)
+![Screenshot 2024-07-22 123437](https://github.com/user-attachments/assets/9c7d9582-c4c0-4a58-97cf-76fafb184720)
 
 #  Balance data distribution 
-![Screenshot 2024-07-22 120054](https://github.com/user-attachments/assets/5e254e6f-2432-48b8-9e5f-89964ec21a62)
+![Screenshot 2024-07-22 123524](https://github.com/user-attachments/assets/62eac367-0e8c-4641-838f-ab30f74782b5)
 
 ![Screenshot 2024-07-22 120655](https://github.com/user-attachments/assets/632c42e4-2219-403d-b86f-ee725fb658fe)
+![Screenshot 2024-07-22 130126](https://github.com/user-attachments/assets/55a9abb8-ceaa-4b20-bd67-a41cf69297f1)
 
 # Number of clients per region
 
