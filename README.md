@@ -5,7 +5,8 @@
 
 The bank wants to improve their services. For instance, the bank managers have only vague idea, who is a good client (whom to offer some additional services) and who is a bad client (whom to watch carefully to minimize the bank loses). Fortunately, the bank stores data about their clients, the accounts (transactions within several months), the loans already granted, the credit cards issued The bank managers hope to improve their understanding of customers and seek specific actions to improve services. A mere application of a discovery tool will not be convincing for them.
 
-# **Dashboard**
+<h1 align="center">Dashboard</h1>
+
 
 ![Screenshot 2024-07-22 114629](https://github.com/user-attachments/assets/16db9a97-1611-4e54-9188-d62165fefc39)
 
@@ -39,13 +40,12 @@ Key factors influencing loan success or failure are average salary, loan duratio
 These findings highlight the importance of careful loan approval processes, region-specific strategies, and ongoing improvements in data quality and model precision. 
 By addressing these areas, the bank can enhance its understanding of client behavior, improve service offerings, and minimize financial risks.
 
-## Data Quality Improvement: 
-Monitor the reduction in missing or inconsistent data entries over time, which reflects improvements in data collection and preprocessing.
 
 
 
 
-### SOME DETAILED SUMMARY 
+<h1 align="center">SOME DETAILED SUMMARY</h1>
+
 # Data Understanding
 1. Business is based of operations in any regular bank such as transactions, clients, credit cards and loans.
 
@@ -65,6 +65,8 @@ Eliminate incoherence provoked by empty files
 District D69 had missing values that were replace by average value of all other districts
 Retrieve useful information from “transaction” datasheet.
 Ex.: Accounts with history of sanctions
+
+<h1 align="center">CHARTS</h1>
 
 #  Salary data distribution
 
