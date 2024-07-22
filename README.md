@@ -5,10 +5,12 @@ The bank wants to improve their services. For instance, the bank managers have o
 
 
 ![Screenshot 2024-07-22 114629](https://github.com/user-attachments/assets/16db9a97-1611-4e54-9188-d62165fefc39)
+
+
 ![Screenshot 2024-07-22 114708](https://github.com/user-attachments/assets/d2549ec8-333a-43c2-a967-4cc5731ddd55)
 
 
-
+### SOME DETAILED SUMMARY 
 # Data Understanding
 1. Business is based of operations in any regular bank such as transactions, clients, credit cards and loans.
 
@@ -32,14 +34,23 @@ Ex.: Accounts with history of sanctions
 #  Salary data distribution
 
 Data shows a large variance of average salary by district.
+![Screenshot 2024-07-22 120425](https://github.com/user-attachments/assets/a4053d14-076a-417b-9694-3f58c81f516a)
+
+#  Balance data distribution 
+![Screenshot 2024-07-22 120054](https://github.com/user-attachments/assets/5e254e6f-2432-48b8-9e5f-89964ec21a62)
+
+![Screenshot 2024-07-22 120655](https://github.com/user-attachments/assets/632c42e4-2219-403d-b86f-ee725fb658fe)
 
 # Number of clients per region
 
 Data seams equal distributed by region.
+![Screenshot 2024-07-22 114932](https://github.com/user-attachments/assets/0e3dce62-a154-4b93-abe8-0de97fb0d8d2)
+
 
 # Clients gender distribution
 
 Data seems equally distributed between genders, so seems there is no bias on gender.
+![Screenshot 2024-07-22 115039](https://github.com/user-attachments/assets/e38932a1-274b-4393-aa31-1027f287fcb2)
 
 
 # Loan amount distribution by status
@@ -47,12 +58,20 @@ Data seems equally distributed between genders, so seems there is no bias on gen
 We see a pattern that loans with larger amounts tend to be more risky with clients staying with debts (type B). On the other hand, clients with smaller loans tend to finish all the loans without problems (type A).
 
 On running contracts, we see that larger loans tend to be more suitable indebting clients (type D).
+![Screenshot 2024-07-22 121305](https://github.com/user-attachments/assets/ac0db178-cfb1-4d20-8fbc-c5a0cce0a3cd)
+
+
+
+
 
 # Loan duration distribution by status
 
 We see a pattern that loans with longer durations tend to be more risky with clients staying with debts (type B). On the other hand, clients with smaller contract durations tend to finish all the loans without problems (type A).
 
 On running contracts, we see that longer duration loans tend to be more suitable for indebting the clients (type D).
+![Uploading Screenshot 2024-07-22 121503.png…]()
+
+
 
 # Data problems and applied solutions
 
