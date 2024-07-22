@@ -4,6 +4,10 @@
 The bank wants to improve their services. For instance, the bank managers have only vague idea, who is a good client (whom to offer some additional services) and who is a bad client (whom to watch carefully to minimize the bank loses). Fortunately, the bank stores data about their clients, the accounts (transactions within several months), the loans already granted, the credit cards issued The bank managers hope to improve their understanding of customers and seek specific actions to improve services. A mere application of a discovery tool will not be convincing for them.
 
 
+![Screenshot 2024-07-22 114629](https://github.com/user-attachments/assets/16db9a97-1611-4e54-9188-d62165fefc39)
+![Screenshot 2024-07-22 114708](https://github.com/user-attachments/assets/d2549ec8-333a-43c2-a967-4cc5731ddd55)
+
+
 
 # Data Understanding
 1. Business is based of operations in any regular bank such as transactions, clients, credit cards and loans.
