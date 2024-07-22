@@ -47,7 +47,7 @@ By addressing these areas, the bank can enhance its understanding of client beha
 
 <h1 align="center">SOME DETAILED SUMMARY</h1>
 
-# Data Understanding
+## Data Understanding
 1. Business is based of operations in any regular bank such as transactions, clients, credit cards and loans.
 
 2. Analysis of data tables relationships
@@ -55,7 +55,7 @@ By addressing these areas, the bank can enhance its understanding of client beha
 4. Understanding the attribute’s content meaning (possible values of each attribute like the range and type
 
 
-# Data Preparation
+## Data Preparation
 
 Renaming attribute’s names for more meaningful keywords.
 Spreadsheet “Demographic Data”
