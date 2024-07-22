@@ -1,5 +1,4 @@
-<h1 style="font-size: 5em; text-align: center;">Credit Card Analysis</h1>
-
+<h1 align="center">CREDIT CARD ANALYSIS</h1>
 ![Screenshot 2024-07-16 214418](https://github.com/user-attachments/assets/c82322bb-7f17-4dae-9dac-54c8e0be38cf)
 
 
@@ -14,7 +13,7 @@ The bank wants to improve their services. For instance, the bank managers have o
 
 
 
-<h1 align="center"># **REPORTS**</h1>
+<h1 align="center">REPORTS</h1>
 
 
 ## Client Classification:
