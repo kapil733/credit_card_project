@@ -1,7 +1,7 @@
 <h1 align="center">CREDIT CARD ANALYSIS</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c82322bb-7f17-4dae-9dac-54c8e0be38cf" alt="Dashboard Screenshot" width="800" height="800">
+  <img src="https://github.com/user-attachments/assets/c82322bb-7f17-4dae-9dac-54c8e0be38cf" alt="Dashboard Screenshot" width="800" height="600">
 </p>
 
 
