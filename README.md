@@ -15,6 +15,8 @@ The bank wants to improve their services. For instance, the bank managers have o
 ![Screenshot 2024-07-22 114708](https://github.com/user-attachments/assets/d2549ec8-333a-43c2-a967-4cc5731ddd55)
 
 
+<h1 align="center">ER Diagram</h1>
+![Screenshot 2024-09-11 182930](https://github.com/user-attachments/assets/14ab6208-861e-497d-9758-8c5b6fd19c4d)
 
 <h1 align="center">REPORTS</h1>
 
